@@ -1,0 +1,6 @@
+@use "./mixin" as *;
+@use "./presets" as *;
+
+* {
+    box-sizing: border-box;
+}
